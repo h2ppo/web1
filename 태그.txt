@@ -1,0 +1,19 @@
+<strong></strong>		굵은글씨
+<b>	</b>			굵은글씨(bold)
+<u>	</u>			밑줄(underline)
+<h1>	</h1>			제일 큰 글자크기, 굵은 글씨, 자동 줄넘김(heading_제목) //중요도 높음
+<h6>	</h6>			제일 작은 글자크기
+<br>				줄넘김
+<p>	</p>			줄넘김(paragraph_문단)
+<img src="img1.png" width="45px">	이미지
+<li>	</li>			목록(list) (ul의 자식태그)
+<ul>	</ul>			li 가 서로 어떤항목끼리 연관되었는지 li를 그룹핑 (li의 부모태그) (unordered list)
+<ol>	</ol>			ul과 비슷하나 각 li에 자동으로 넘버링 (ordered list)
+<title>	</title>			웹 사이트의 제목
+<meta charset="utf-8">		인코딩 형식 설정 (head안에)
+<head>	</head>			웹 사이트에 대한 설명(html 안에)
+<body	</body>			웹 사이트의 내용(html 안에)
+<html>	</html>			웹 사이트 전체의 묶음
+<!doctype html>			형식 표현(관용적으로 사용_맨위에)
+<a href="URL" target="_blank" title="popularity definition">popularity</a>
+				링크달기(href = 주소, target = 새 탭 열기, title = 툴팁)
